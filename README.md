@@ -1,133 +1,66 @@
-
-Okay, I'll craft your GitHub profile "About Me" section based on the template you provided and the skills and project descriptions we compiled. I'll make it sound polished and professional.
-
-👋 Welcome to My GitHub Profile!
-
-Hi, I'm Samar Noor Riaz, a Software Developer passionate about building innovative solutions and learning new technologies. This portfolio showcases my projects, skills, and contributions. Feel free to explore my work below!
-
-🚀 About Me
-
-🎓 B.S. in Computer Science, University of Engineering and Technology Lahore, New Campus 
-
-
-
-
-
-💼 Currently seeking opportunities in software development.
-
-🌟 Interests: Full-stack development, database management, machine learning, and secure systems.
-
-📫 Contact: samarnoorriaz@gmail.com
-
-🛠️ Skills
-
-Languages: Python, C#, C++, Assembly Language (x86), SQL
-
-Frameworks/Tools: .NET MVC, Streamlit, Pandas, NumPy, Scikit-learn, Plotly Express, Cisco Packet Tracer, Git, Visual Studio Code
-
-Other: Database Management (PostgreSQL, SQL Server, MongoDB, Redis, MySQL), Data Structures and Algorithms, Network Design, Machine Learning, Information Security, Software Engineering
-
-📚 Projects
-
-Here are some of my key projects. Each includes a link to the repository and a report (PDF) with detailed insights.
-
-Database Benchmark Tool
-
-Description: A Streamlit-based Python application that benchmarks the performance of PostgreSQL, SQL Server, MongoDB, and Redis across CRUD operations, indexing, joins, and hash queries. 
-
-
-
-Tech Stack: Python, Streamlit, PostgreSQL, SQL Server, MongoDB, Redis
-
-Repository: [Link to GitHub repo]
-
-Report: [Link to PDF]
-
-Car Price Predictor
-
-Description: A machine learning system developed in Python that predicts car prices using regression, classification, and clustering. 
-
-
-Tech Stack: Python, Pandas, NumPy, Scikit-learn, Streamlit
-
-Repository: [Link to GitHub repo]
-
-Report: [Link to PDF]
-
-Hangman Game
-
-Description: A classic Hangman game implemented in x86 assembly language using the Irvine32 library, featuring a graphical interface and user input handling. 
-
-
-
-Tech Stack: Assembly Language (x86), Irvine32 library
-
-Repository: [Link to GitHub repo]
-
-Report: [Link to PDF]
-
-University Management System Network
-
-Description: A network design for a University Management System implemented in Cisco Packet Tracer, including VLANs, subnetting, and routing protocols. 
-
-
-
-Tech Stack: Cisco Packet Tracer, Network Design
-
-Repository: [Link to GitHub repo]
-
-Report: [Link to PDF]
-
-Library Management System (LMS)
-
-Description: A .NET MVC application for managing library operations, including book inventory, user registration, and book issuance. 
-
-
-Tech Stack: C#, .NET MVC, MS SQL Server
-
-Repository: [Link to GitHub repo]
-
-Report: [Link to PDF]
-
-Ride Hailing Management System
-
-Description: A C++ based ride-hailing system using data structures and algorithms to manage user registration, driver allocation, and route optimization. 
-
-Tech Stack: C++, Data Structures and Algorithms
-
-Repository: [Link to GitHub repo]
-
-Report: [Link to PDF]
-
-Secure File Transfer System
-
-Description: A Streamlit-based Python application for secure file transfer using encryption and VPN tunneling. 
-
-Tech Stack: Python, Streamlit, Encryption, VPN, TLS
-
-Repository: [Link to GitHub repo]
-
-Report: [Link to PDF]
-
-Floral Shop (Bloomify)  (Proposal)
-
-Description: A proposed C# and Windows Forms application for an online floral shop with user-friendly ordering and inventory management. 
-
-
-Tech Stack: C#, Windows Forms (Proposal)
-
-Repository: [Link to GitHub repo]
-
-Report: [Link to PDF]
-
-📬 Get in Touch
-
-📧 Email: [your.email@example.com]
-
-🔗 LinkedIn: [Your LinkedIn URL]
-
-🌐 Portfolio: [Your portfolio website, if applicable]
-
-🐦 X: [Your X handle, e.g., https://x.com/yourusername]
-
-Thanks for visiting! Feel free to explore my repositories or reach out for collaboration opportunities.
+👋 Hi, I'm Samar Noor Riaz
+I'm a passionate Software Developer and Computer Science student at University of Engineering and Technology, Lahore (New Campus). I specialize in building robust fullstack systems, intelligent ML applications, and secure solutions with a strong foundation in data structures, networking, and software engineering.
+
+🚀 About Me:
+- 🎓 Degree: B.S. Computer Science  
+- 💼 Currently Seeking: Software Development Internships or Entry-Level Roles  
+- 🌱 Learning: Advanced Backend Design, Secure Systems, DevOps Basics  
+- 🧠 Interests: Full-stack dev, AI/ML, databases, networks, and cybersecurity  
+- 📫 Reach Me: samarnoorriaz@gmail.com
+
+🛠️ Tech Stack:
+Languages: Python, C++, C#, Assembly (x86 - Irvine32), SQL  
+Web/Frameworks: .NET MVC, Streamlit, Windows Forms  
+Databases: PostgreSQL, MongoDB, Redis, SQL Server, MySQL  
+Tools/Libraries: Scikit-learn, NumPy, Pandas, Plotly, Git, Visual Studio, Packet Tracer  
+DSA: AVL Trees, Graphs (Dijkstra), Tries, Linked Lists, Queues, Sorting  
+Security: Encryption, TLS, VPN, Auth Systems  
+Networking: VLANs, Subnetting, RIP, ACLs, DNS, DHCP, FTP, Cisco Packet Tracer  
+Others: StarUML, Pencil, MS Word, psutil, joblib  
+
+📚 Highlight Projects:
+🔹 **Database Benchmark Tool**
+A Python-Streamlit app that benchmarks PostgreSQL, SQL Server, MongoDB & Redis across CRUD, joins, indexing, and hash queries. Includes visualization and performance analysis.
+- **Tech**: Python, Streamlit, PostgreSQL, Redis, MongoDB  
+- ⏳ *[Repo & Report Coming Soon]*
+
+🔹 **Car Price Predictor**
+ML-based price predictor using regression, clustering, classification. User-friendly Streamlit interface with interactive prediction.
+- **Tech**: Python, Pandas, NumPy, Scikit-learn  
+- ⏳ *[Repo & Report Coming Soon]*
+
+🔹 **Hangman Game in Assembly**
+Classic game implemented in x86 Assembly using Irvine32 library, handling graphics, input, and game logic manually.
+- **Tech**: Assembly (x86), Irvine32  
+- ⏳ *[Repo & Report Coming Soon]*
+
+🔹 **University Management Network Design**
+A fully connected VLAN-segmented university network in Cisco Packet Tracer using ACLs, routing protocols, DNS/DHCP servers.
+- **Tech**: Cisco Packet Tracer  
+- ⏳ *[Repo & Report Coming Soon]*
+
+🔹 **Library Management System (.NET MVC)**
+Admin dashboard to manage books, users, and issuing with MS SQL backend and MVC structure.
+- **Tech**: C#, .NET MVC, SQL Server  
+- ⏳ *[Repo & Report Coming Soon]*
+
+🔹 **Ride-Hailing Management System**
+C++ project using DSA concepts (AVL trees, graphs, sorting) to manage users, drivers, and routes.
+- **Tech**: C++, DSA  
+- ⏳ *[Repo & Report Coming Soon]*
+
+🔹 **Secure File Transfer**
+A Streamlit app for encrypted file transfer with VPN tunneling and TLS for end-to-end security.
+- **Tech**: Python, Streamlit, VPN, TLS  
+- ⏳ *[Repo & Report Coming Soon]*
+
+🔹 **Bloomify: Floral E-Commerce (Proposal)**
+C# Windows Forms application for a flower shop with ordering, inventory, payments, and user accounts.
+- **Tech**: C#, Windows Forms, Sql server
+- ⏳ *[Repo & Report Coming Soon]*
+
+🌐 Connect with Me:
+📧 samarnoorriaz@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+🐙 [GitHub](https://github.com/Samar-Riaz)  
+Thanks for stopping by! Feel free to explore or connect 🤝
