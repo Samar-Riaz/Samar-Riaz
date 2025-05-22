@@ -33,7 +33,7 @@ I'm a passionate Software Developer and Computer Science student at **University
 ### 🔹 **Database Benchmark Tool**
 A Python-Streamlit app that benchmarks PostgreSQL, SQL Server, MongoDB & Redis across CRUD, joins, indexing, and hash queries. Includes visualization and performance analysis.
 - **Tech**: Python, Streamlit, PostgreSQL, Redis, MongoDB  
-- ⏳ *[Repo & Report Coming Soon]*
+- ⏳ [*[Report]*](https://github.com/Samar-Riaz/Report/blob/main/Advanced%20DB%20(Python)%20-%20Query%20Benchmarking%20Tool.pdf)
 
 ---
 
@@ -47,14 +47,14 @@ ML-based price predictor using regression, clustering, classification. User-frie
 ### 🔹 **Hangman Game in Assembly**
 Classic game implemented in x86 Assembly using Irvine32 library, handling graphics, input, and game logic manually.
 - **Tech**: Assembly (x86), Irvine32  
-- ⏳ *[Repo & Report Coming Soon]*
+- ⏳ [*[Report]*](https://github.com/Samar-Riaz/Report/blob/main/Assembly%20Language%20(Irvine32)%20-%20Hangman%20Game.pdf)
 
 ---
 
 ### 🔹 **University Management Network Design**
 A fully connected VLAN-segmented university network in Cisco Packet Tracer using ACLs, routing protocols, DNS/DHCP servers.
 - **Tech**: Cisco Packet Tracer  
-- ⏳ *[Repo & Report Coming Soon]*
+- ⏳ [*[Report]*](https://github.com/Samar-Riaz/Report/blob/main/Computer%20Networks%20(Cisco%20Packet%20Tracer)%20-%20University%20Management%20System.pdf)
 
 ---
 
@@ -75,14 +75,16 @@ C++ project using DSA concepts (AVL trees, graphs, sorting) to manage users, dri
 ### 🔹 **Secure File Transfer**
 A Streamlit app for encrypted file transfer with VPN tunneling and TLS for end-to-end security.
 - **Tech**: Python, Streamlit, VPN, TLS  
-- ⏳ *[Repo & Report Coming Soon]*
+- ⏳ [*[Report]*](https://github.com/Samar-Riaz/Report/blob/main/Information%20Security%20(Python)%20-%20Secure%20File%20Transfer%20System.pdf)
 
 ---
 
-### 🔹 **Bloomify: Floral E-Commerce (Proposal)**
+### 🔹 **Bloomify: Floral E-Commerce **
 C# Windows Forms application for a flower shop with ordering, inventory, payments, and user accounts.
-- **Tech**: C#, Windows Forms  
-- ⏳ *[Repo & Report Coming Soon]*
+- **Tech**: C#, Windows Forms
+- ⏳ [*[Proposal]*]https://github.com/Samar-Riaz/Report/blob/main/Software%20Engineering%20(C%23)%20-%20Floral%20Shop%20(PROPOSAL).pdf
+- ⏳ [*[Design Document]*](https://github.com/Samar-Riaz/Report/blob/main/Software%20Engineering%20(C%23)%20-%20Floral%20Shop%20(Design%20Document).pdf)
+- ⏳ [*[Design Document]*]https://github.com/Samar-Riaz/Report/blob/main/Software%20Engineering%20(C%23)%20-%20Floral%20Shop%20(TEST%20DOCUMENT).pdf
 
 ---
 
