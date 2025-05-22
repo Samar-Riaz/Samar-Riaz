@@ -40,7 +40,7 @@ A Python-Streamlit app that benchmarks PostgreSQL, SQL Server, MongoDB & Redis a
 ### 🔹 **Car Price Predictor**
 ML-based price predictor using regression, clustering, classification. User-friendly Streamlit interface with interactive prediction.
 - **Tech**: Python, Pandas, NumPy, Scikit-learn  
-- ⏳ *[Repo & Report Coming Soon]*
+- [⏳ *[Repo & Report Coming Soon]*](https://github.com/Samar-Riaz/Report/blob/main/AI%20(Python)%20-%20Car%20Price%20Predictor.pdf)
 
 ---
 
