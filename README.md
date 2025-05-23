@@ -90,7 +90,7 @@ C# Windows Forms application for a flower shop with ordering, inventory, payment
 ## 🌐 Connect with Me
 
 📧 [samarnoorriaz@gmail.com]  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+🔗 [LinkedIn](https://linkedin.com/in/samar-noor-riaz/)  
 🐙 [GitHub](https://github.com/Samar-Riaz)  
 🧾 Portfolio: *Coming soon*  
 
