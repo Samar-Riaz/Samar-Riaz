@@ -68,7 +68,7 @@ Admin dashboard to manage books, users, and issuing with MS SQL backend and MVC 
 ### 🔹 **Ride-Hailing Management System**
 C++ project using DSA concepts (AVL trees, graphs, sorting) to manage users, drivers, and routes.
 - **Tech**: C++, DSA  
-- 📂 *[Repo & Report Coming Soon]*
+- 📂 [*[Report]*](https://github.com/Samar-Riaz/Report/blob/main/DSA%20(C%2B%2B)%20-%20Ride%20Hailing%20Management%20System.pdf)
 
 ---
 
