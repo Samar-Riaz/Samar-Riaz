@@ -61,7 +61,7 @@ A fully connected VLAN-segmented university network in Cisco Packet Tracer using
 ### 🔹 **Library Management System (.NET MVC)**
 Admin dashboard to manage books, users, and issuing with MS SQL backend and MVC structure.
 - **Tech**: C#, .NET MVC, SQL Server  
-- 📂 *[Repo & Report Coming Soon]*
+- 📂 [*[Report]*](https://github.com/Samar-Riaz/Report/blob/main/Database%20(.NET%20MVC)%20-%20LMS.pdf)
 
 ---
 
