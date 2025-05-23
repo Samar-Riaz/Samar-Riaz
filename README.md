@@ -83,7 +83,8 @@ A Streamlit app for encrypted file transfer with VPN tunneling and TLS for end-t
 C# Windows Forms application for a flower shop with ordering, inventory, payments, and user accounts.
 - **Tech**: C#, Windows Forms
 - 📂 [*[Proposal]*](https://github.com/Samar-Riaz/Report/blob/main/Software%20Engineering%20(C%23)%20-%20Floral%20Shop%20(PROPOSAL).pdf)
-
+- 📂 [*[Design Document]*](https://github.com/Samar-Riaz/Report/blob/main/Software%20Engineering%20(C%23)%20-%20Floral%20Shop%20(Design%20Document).pdf)
+- 📂 [*[Test Document]*](https://github.com/Samar-Riaz/Report/blob/main/Software%20Engineering%20(C%23)%20-%20Floral%20Shop%20(TEST%20DOCUMENT).pdf)
 ---
 
 ## 🌐 Connect with Me
