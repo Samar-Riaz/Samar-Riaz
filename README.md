@@ -33,58 +33,56 @@ I'm a passionate Software Developer and Computer Science student at **University
 ### 🔹 **Database Benchmark Tool**
 A Python-Streamlit app that benchmarks PostgreSQL, SQL Server, MongoDB & Redis across CRUD, joins, indexing, and hash queries. Includes visualization and performance analysis.
 - **Tech**: Python, Streamlit, PostgreSQL, Redis, MongoDB  
-- ⏳ [*[Report]*](https://github.com/Samar-Riaz/Report/blob/main/Advanced%20DB%20(Python)%20-%20Query%20Benchmarking%20Tool.pdf)
+- 📂 [*[Report]*](https://github.com/Samar-Riaz/Report/blob/main/Advanced%20DB%20(Python)%20-%20Query%20Benchmarking%20Tool.pdf)
 
 ---
 
 ### 🔹 **Car Price Predictor**
 ML-based price predictor using regression, clustering, classification. User-friendly Streamlit interface with interactive prediction.
 - **Tech**: Python, Pandas, NumPy, Scikit-learn  
-- [⏳ *[Report]*](https://github.com/Samar-Riaz/Report/blob/main/AI%20(Python)%20-%20Car%20Price%20Predictor.pdf)
+- [📂 *[Report]*](https://github.com/Samar-Riaz/Report/blob/main/AI%20(Python)%20-%20Car%20Price%20Predictor.pdf)
 
 ---
 
 ### 🔹 **Hangman Game in Assembly**
 Classic game implemented in x86 Assembly using Irvine32 library, handling graphics, input, and game logic manually.
 - **Tech**: Assembly (x86), Irvine32  
-- ⏳ [*[Report]*](https://github.com/Samar-Riaz/Report/blob/main/Assembly%20Language%20(Irvine32)%20-%20Hangman%20Game.pdf)
+- 📂 [*[Report]*](https://github.com/Samar-Riaz/Report/blob/main/Assembly%20Language%20(Irvine32)%20-%20Hangman%20Game.pdf)
 
 ---
 
 ### 🔹 **University Management Network Design**
 A fully connected VLAN-segmented university network in Cisco Packet Tracer using ACLs, routing protocols, DNS/DHCP servers.
 - **Tech**: Cisco Packet Tracer  
-- ⏳ [*[Report]*](https://github.com/Samar-Riaz/Report/blob/main/Computer%20Networks%20(Cisco%20Packet%20Tracer)%20-%20University%20Management%20System.pdf)
+- 📂 [*[Report]*](https://github.com/Samar-Riaz/Report/blob/main/Computer%20Networks%20(Cisco%20Packet%20Tracer)%20-%20University%20Management%20System.pdf)
 
 ---
 
 ### 🔹 **Library Management System (.NET MVC)**
 Admin dashboard to manage books, users, and issuing with MS SQL backend and MVC structure.
 - **Tech**: C#, .NET MVC, SQL Server  
-- ⏳ *[Repo & Report Coming Soon]*
+- 📂 *[Repo & Report Coming Soon]*
 
 ---
 
 ### 🔹 **Ride-Hailing Management System**
 C++ project using DSA concepts (AVL trees, graphs, sorting) to manage users, drivers, and routes.
 - **Tech**: C++, DSA  
-- ⏳ *[Repo & Report Coming Soon]*
+- 📂 *[Repo & Report Coming Soon]*
 
 ---
 
 ### 🔹 **Secure File Transfer**
 A Streamlit app for encrypted file transfer with VPN tunneling and TLS for end-to-end security.
 - **Tech**: Python, Streamlit, VPN, TLS  
-- ⏳ [*[Report]*](https://github.com/Samar-Riaz/Report/blob/main/Information%20Security%20(Python)%20-%20Secure%20File%20Transfer%20System.pdf)
+- 📂 [*[Report]*](https://github.com/Samar-Riaz/Report/blob/main/Information%20Security%20(Python)%20-%20Secure%20File%20Transfer%20System.pdf)
 
 ---
 
 ### 🔹 **Bloomify: Floral E-Commerce **
 C# Windows Forms application for a flower shop with ordering, inventory, payments, and user accounts.
 - **Tech**: C#, Windows Forms
-- ⏳ [*[Proposal]*]https://github.com/Samar-Riaz/Report/blob/main/Software%20Engineering%20(C%23)%20-%20Floral%20Shop%20(PROPOSAL).pdf
-- ⏳ [*[Design Document]*](https://github.com/Samar-Riaz/Report/blob/main/Software%20Engineering%20(C%23)%20-%20Floral%20Shop%20(Design%20Document).pdf)
-- ⏳ [*[Design Document]*]https://github.com/Samar-Riaz/Report/blob/main/Software%20Engineering%20(C%23)%20-%20Floral%20Shop%20(TEST%20DOCUMENT).pdf
+- 📂 [*[Proposal]*]https://github.com/Samar-Riaz/Report/blob/main/Software%20Engineering%20(C%23)%20-%20Floral%20Shop%20(PROPOSAL).pdf
 
 ---
 
@@ -92,9 +90,8 @@ C# Windows Forms application for a flower shop with ordering, inventory, payment
 
 📧 [samarnoorriaz@gmail.com]  
 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🐙 [GitHub](https://github.com/yourusername)  
+🐙 [GitHub](https://github.com/Samar-Riaz)  
 🧾 Portfolio: *Coming soon*  
-🐦 X (Twitter): *Optional*
 
 ---
 
