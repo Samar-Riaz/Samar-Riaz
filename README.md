@@ -33,6 +33,7 @@ Scikit-learn · NumPy · Pandas · .NET MVC · Redis · Postman · Cisco Packet 
 A private job-posting and bidding platform with role-based dashboards, secure login, task tracking, and scalable backend architecture.  
 **Tech**: React.js · Node.js · Express.js · MongoDB
 📂 [Report]()
+
 ---
 
 ### 🔹 **Book Catalog API (FastAPI)**
