@@ -40,6 +40,7 @@ Designed and deployed a RESTful API for managing books with full CRUD, JWT-based
 **Tech**: Python · FastAPI · SQLite · SQLAlchemy · Pytest
 🌟 [Screenshots](https://github.com/Samar-Riaz/fastapi-book-catalog/tree/main/screenshots)
 📂 [Report](https://github.com/Samar-Riaz/fastapi-book-catalog/blob/main/Documentation.pdf)
+
 ---
 
 ### 🔹 **QueryCrunch – DB Benchmark Tool**
