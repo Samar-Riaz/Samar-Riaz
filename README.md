@@ -32,7 +32,7 @@ Scikit-learn · NumPy · Pandas · .NET MVC · Redis · Postman · Cisco Packet 
 ### 🔹 **Freelance SaaS Platform (MERN Stack)**
 A private job-posting and bidding platform with role-based dashboards, secure login, task tracking, and scalable backend architecture.  
 **Tech**: React.js · Node.js · Express.js · MongoDB  
-📂 [Report]()
+📂 [Report](https://github.com/Samar-Riaz/MERN-Stack-freelancing-saas-platform/blob/main/Task%201%20-%20Saas%20Software.pdf)
 
 ---
 
