@@ -54,6 +54,7 @@ Compared CRUD/indexing performance across PostgreSQL, MongoDB, SQL Server & Redi
 ### 🔹 **Bloomify – Floral E-Commerce Desktop App**
 Inventory, user, and order management for a flower shop. Includes validation and role-based admin panel.  
 **Tech**: C# · Windows Forms  
+🌟 [Video Implementation](https://drive.google.com/file/d/157ccS6XhKYK1ZtVld6dMVQmHviPRv_lY/view?usp=drive_link)
 📂 [Proposal](https://github.com/Samar-Riaz/Report/blob/main/Software%20Engineering%20(C%23)%20-%20Floral%20Shop%20(PROPOSAL).pdf)
 
 ---
