@@ -31,14 +31,14 @@ Scikit-learn · NumPy · Pandas · .NET MVC · Redis · Postman · Cisco Packet 
 
 ### 🔹 **Freelance SaaS Platform (MERN Stack)**
 A private job-posting and bidding platform with role-based dashboards, secure login, task tracking, and scalable backend architecture.  
-**Tech**: React.js · Node.js · Express.js · MongoDB
+**Tech**: React.js · Node.js · Express.js · MongoDB  
 📂 [Report]()
 
 ---
 
 ### 🔹 **Book Catalog API (FastAPI)**
 Designed and deployed a RESTful API for managing books with full CRUD, JWT-based auth, SQLAlchemy models, and OpenAPI docs.  
-**Tech**: Python · FastAPI · SQLite · SQLAlchemy · Pytest
+**Tech**: Python · FastAPI · SQLite · SQLAlchemy · Pytest  
 🌟 [Screenshots](https://github.com/Samar-Riaz/fastapi-book-catalog/tree/main/screenshots)
 📂 [Report](https://github.com/Samar-Riaz/fastapi-book-catalog/blob/main/Documentation.pdf)
 
