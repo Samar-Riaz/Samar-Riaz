@@ -48,6 +48,13 @@ Designed a real-time audio processing pipeline to classify human/animal voices v
 **Tech**: Python · TensorFlow · Librosa · SoundDevice · NumPy · Scikit-learn  
 📄 [Full Report](https://github.com/Samar-Riaz/Report/blob/main/ML%20Voice%20Recognition%20System%20Report.pdf)
 
+
+### 🔹 **Carculator – ML-Based Car Price Predictor**
+Interactive Streamlit app using regression models to predict car prices with clean UI and real-time insights.
+
+**Tech**: Python · Scikit-learn · Pandas · Streamlit  
+📄 [Report](https://github.com/Samar-Riaz/Report/blob/main/AI%20(Python)%20-%20Car%20Price%20Predictor.pdf)
+
 ### 🔹 **Freelance SaaS Platform (MERN Stack)**
 Private platform for project posting, bidding, and task management with role-based dashboards and secure authentication.
 
@@ -59,12 +66,6 @@ RESTful API with JWT authentication, role-based access control, SQLAlchemy model
 
 **Tech**: Python · FastAPI · SQLite · SQLAlchemy · Pytest  
 🖼️ [Screenshots](https://github.com/Samar-Riaz/fastapi-book-catalog/tree/main/screenshots) | 📄 [Docs](https://github.com/Samar-Riaz/fastapi-book-catalog/blob/main/Documentation.pdf)
-
-### 🔹 **Carculator – ML-Based Car Price Predictor**
-Interactive Streamlit app using regression models to predict car prices with clean UI and real-time insights.
-
-**Tech**: Python · Scikit-learn · Pandas · Streamlit  
-📄 [Report](https://github.com/Samar-Riaz/Report/blob/main/AI%20(Python)%20-%20Car%20Price%20Predictor.pdf)
 
 ### 🔹 **QueryCrunch – Multi-DB Query Benchmark Tool**
 Visual performance comparison of CRUD and indexing across PostgreSQL, MySQL, MongoDB, and SQL Server.
