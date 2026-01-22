@@ -4,7 +4,7 @@
 
 I'm a Computer Science student at **UET Lahore**, passionate about building robust, scalable backend systems and exploring the intersection of software engineering and machine learning. With hands-on experience in **FastAPI**, **MERN Stack**, and modern data pipelines, I enjoy designing APIs, optimizing databases, and solving real-world problems through clean, efficient code.
 
-Currently seeking **Software Engineering Internship opportunities**, especially those with an ML or backend focus, where I can contribute to impactful projects and grow in a fast-paced, collaborative environment.
+Currently seeking **Software Engineering Internship opportunities**, where I can contribute to impactful projects and grow in a fast-paced, collaborative environment.
 
 ---
 
@@ -40,14 +40,13 @@ Docker · Git · GitHub · Postman · VS Code · Cisco Packet Tracer · AWS/GCP 
 Built and compared multiple ML models (Linear Regression, RNN, LSTM, GRU) for time-series forecasting of stock prices using historical OHLC data. Achieved best performance with GRU (MAE: 5.22%, RMSE: 6.98%).
 
 **Tech**: Python · TensorFlow/Keras · Pandas · NumPy · Scikit-learn · Matplotlib  
-📄 [Full Report](https://github.com/Samar-Riaz/Report/blob/main/Stock%20Price%20Prediction%20Report.pdf)
+📄 [Full Report]([https://github.com/Samar-Riaz/Report/blob/main/Stock%20Price%20Prediction%20Report.pdf](https://github.com/Samar-Riaz/Stock-Price-Predictor/blob/main/Stock%20Price%20Prediction%20Report.pdf))
 
 ### 🔹 **Voice Classification System – Real-Time Audio ML**
 Designed a real-time audio processing pipeline to classify human/animal voices vs. other sounds using a Deep Neural Network (DNN). Integrated with a simulated gate control system achieving >90% accuracy.
 
 **Tech**: Python · TensorFlow · Librosa · SoundDevice · NumPy · Scikit-learn  
-📄 [Full Report](https://github.com/Samar-Riaz/Report/blob/main/ML%20Voice%20Recognition%20System%20Report.pdf)
-
+📄 [Full Report]([https://github.com/Samar-Riaz/Report/blob/main/ML%20Voice%20Recognition%20System%20Report.pdf](https://github.com/Samar-Riaz/Voice-Classification-System/blob/main/ML%20Voice%20Recognition%20System%20Report.pdf))
 
 ### 🔹 **Carculator – ML-Based Car Price Predictor**
 Interactive Streamlit app using regression models to predict car prices with clean UI and real-time insights.
