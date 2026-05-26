@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mobile%20Dev-YusiTechnologies-0F6E56?style=flat-square" />
-  <img src="https://img.shields.io/badge/Full--Stack-HiSkyTech-534AB7?style=flat-square" />
+  <a href="https://yusitek.com/"><img src="https://img.shields.io/badge/Mobile%20Dev-YusiTechnologies-0F6E56?style=flat-square" /></a>
+  <a href="https://hiskytechs.com/"><img src="https://img.shields.io/badge/Full--Stack-HiSkyTech-534AB7?style=flat-square" /></a>
   <img src="https://img.shields.io/badge/UET-Final%20Year%20CS-185FA5?style=flat-square" />
   <img src="https://img.shields.io/badge/Freelance-1%2B%20Year-BA7517?style=flat-square" />
   <img src="https://img.shields.io/badge/FYP-AI%20Tourism%20App-D85A30?style=flat-square" />
