@@ -1,111 +1,130 @@
-# 👋 Hi, I'm Samar Noor Riaz
+<h1 align="center">Samar Noor Riaz</h1>
+<p align="center">
+  <b>Full-Stack & Mobile Developer</b><br/>
+  Flutter · FastAPI · MERN Stack · Python · .NET · ML/AI
+</p>
 
-**Backend-Focused Software Engineer | ML & Scalable Systems Enthusiast**
-
-I'm a Computer Science student at **UET Lahore**, passionate about building robust, scalable backend systems and exploring the intersection of software engineering and machine learning. With hands-on experience in **FastAPI**, **MERN Stack**, and modern data pipelines, I enjoy designing APIs, optimizing databases, and solving real-world problems through clean, efficient code.
-
-Currently seeking **Software Engineering Internship opportunities**, where I can contribute to impactful projects and grow in a fast-paced, collaborative environment.
-
----
-
-## 🚀 About Me
-
-- 🎓 **B.S. Computer Science** @ UET Lahore (CGPA: 3.3/4.0) | Expected Graduation: 2027
-- 🔭 **Currently Exploring**: Machine Learning pipelines, distributed systems, and cloud-native backend development
-- 🧠 **Interests**: Backend scalability, API engineering, ML integration, DevOps & CI/CD
-- 📍 **Location**: Lahore, Pakistan | Open to remote & on-site roles
-- 📫 **Let's connect**: [samarnoorriaz@gmail.com](mailto:samarnoorriaz@gmail.com)
+<p align="center">
+  <img src="https://img.shields.io/badge/Mobile%20Dev-YusiTechnologies-0F6E56?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full--Stack-HiSkyTech-534AB7?style=flat-square" />
+  <img src="https://img.shields.io/badge/UET-Final%20Year%20CS-185FA5?style=flat-square" />
+  <img src="https://img.shields.io/badge/Freelance-1%2B%20Year-BA7517?style=flat-square" />
+  <img src="https://img.shields.io/badge/FYP-AI%20Tourism%20App-D85A30?style=flat-square" />
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+## About Me
 
-### **Backend & APIs**
-Python · FastAPI · Node.js · Express.js · RESTful APIs · SQL · PostgreSQL · MongoDB · SQLAlchemy · JWT/OAuth · Async Programming
+Currently employed as a **Mobile Developer at YusiTechnologies**, actively shipping multiple Flutter applications in parallel for production. Final-year Computer Science student at UET (CGPA: 3.3) with 1+ year of freelance experience spanning mobile, web, backend, and AI/ML domains. Delivered production-grade applications across Flutter, MERN, Flask, .NET, and Python. Currently leading an AI-powered tourism FYP alongside full-time employment.
 
-### **Frontend & Tools**
-React.js · JavaScript · HTML/CSS · Bootstrap · Streamlit · C# · ASP.NET MVC · Windows Forms
-
-### **ML & Data Science**
-TensorFlow/Keras · Scikit-learn · Pandas · NumPy · LSTM/GRU · Audio Processing (Librosa) · Time-Series Forecasting
-
-### **Infrastructure & DevOps**
-Docker · Git · GitHub · Postman · VS Code · Cisco Packet Tracer · AWS/GCP (learning)
+> Comfortable working across the full stack — from UI to backend to model training — and proven at shipping real products for real clients.
 
 ---
 
-## 📌 Featured Projects
+## Experience
 
-### 🔹 **Stock Price Predictor – LSTM & GRU Models**
-Built and compared multiple ML models (Linear Regression, RNN, LSTM, GRU) for time-series forecasting of stock prices using historical OHLC data. Achieved best performance with GRU (MAE: 5.22%, RMSE: 6.98%).
-
-**Tech**: Python · TensorFlow/Keras · Pandas · NumPy · Scikit-learn · Matplotlib  
-📄 [Full Report](https://github.com/Samar-Riaz/Stock-Price-Predictor/blob/main/Stock%20Price%20Prediction%20Report.pdf)
-
-### 🔹 **Voice Classification System – Real-Time Audio ML**
-Designed a real-time audio processing pipeline to classify human/animal voices vs. other sounds using a Deep Neural Network (DNN). Integrated with a simulated gate control system achieving >90% accuracy.
-
-**Tech**: Python · TensorFlow · Librosa · SoundDevice · NumPy · Scikit-learn  
-📄 [Full Report](https://github.com/Samar-Riaz/Voice-Classification-System/blob/main/ML%20Voice%20Recognition%20System%20Report.pdf)
-
-### 🔹 **Carculator – ML-Based Car Price Predictor**
-Interactive Streamlit app using regression models to predict car prices with clean UI and real-time insights.
-
-**Tech**: Python · Scikit-learn · Pandas · Streamlit  
-📄 [Report](https://github.com/Samar-Riaz/Report/blob/main/AI%20(Python)%20-%20Car%20Price%20Predictor.pdf)
-
-### 🔹 **Freelance SaaS Platform (MERN Stack)**
-Private platform for project posting, bidding, and task management with role-based dashboards and secure authentication.
-
-**Tech**: React.js · Node.js · Express.js · MongoDB · JWT  
-📹 [Demo Video](https://drive.google.com/file/d/1PcOOk7-ZpTUBwlavNQRaFknSA3mFGT_w/view) | 📄 [Report](https://github.com/Samar-Riaz/MERN-Stack-freelancing-saas-platform/blob/main/Task%201%20-%20Saas%20Software.pdf)
-
-### 🔹 **Book Catalog API (FastAPI)**
-RESTful API with JWT authentication, role-based access control, SQLAlchemy models, and automated OpenAPI docs.
-
-**Tech**: Python · FastAPI · SQLite · SQLAlchemy · Pytest  
-🖼️ [Screenshots](https://github.com/Samar-Riaz/fastapi-book-catalog/tree/main/screenshots) | 📄 [Docs](https://github.com/Samar-Riaz/fastapi-book-catalog/blob/main/Documentation.pdf)
-
-### 🔹 **QueryCrunch – Multi-DB Query Benchmark Tool**
-Visual performance comparison of CRUD and indexing across PostgreSQL, MySQL, MongoDB, and SQL Server.
-
-**Tech**: Python · Streamlit · SQL · Redis  
-📄 [Report](https://github.com/Samar-Riaz/Report/blob/main/Advanced%20DB%20(Python)%20-%20Query%20Benchmarking%20Tool.pdf)
-
-### 🔹 **Bloomify – Floral E-Commerce Desktop App**
-Inventory, user, and order management for a flower shop. Includes validation and role-based admin panel.
-
-**Tech**: C# · Windows Forms  
-📹 [Demo Video](https://drive.google.com/file/d/157ccS6XhKYK1ZtVld6dMVQmHviPRv_lY/view) | 📄 [Proposal](https://github.com/Samar-Riaz/Report/blob/main/Software%20Engineering%20(C%23)%20-%20Floral%20Shop%20(PROPOSAL).pdf)
-
-### 🔹 **LibraCore – Library Management System**
-Book/user admin panel using full MVC architecture and Entity Framework.
-
-**Tech**: C# · .NET MVC · SQL Server  
-📄 [Report](https://github.com/Samar-Riaz/Report/blob/main/Database%20(.NET%20MVC)%20-%20LMS.pdf)
-
-### 🔹 **University Network Design**
-Full VLAN + ACL design in Packet Tracer with DNS/DHCP, routing protocols.
-
-**Tech**: Cisco Packet Tracer  
-📄 [Report](https://github.com/Samar-Riaz/Report/blob/main/Computer%20Networks%20(Cisco%20Packet%20Tracer)%20-%20University%20Management%20System.pdf)
+| Role | Company | Period |
+|------|---------|--------|
+| Mobile Developer | YusiTechnologies | Feb 2026 – Present |
+| Full-Stack Developer | HiSkyTech Software Company | May 2025 – Sep 2025 |
+| Backend Developer (Contract) | Freelance | Jan 2025 – May 2025 |
+| Freelance Developer | Outsourcing Teams | Jan 2024 – Present |
 
 ---
 
-## 📜 Certifications
+## Tech Stack
 
-- **FastAPI for Backend Development** – freeCodeCamp (2025)
-- **Python for Web Development** – Udemy (2024)
+**Mobile**
+`Flutter` `Dart` `GetX` `Firebase` `Stripe SDK` `OTP Verification`
+
+**Backend & APIs**
+`FastAPI` `Node.js` `Express.js` `Flask` `ASP.NET MVC` `JWT` `OAuth2` `SQLAlchemy` `REST APIs`
+
+**Frontend**
+`React.js` `JavaScript (ES6+)` `HTML5` `CSS3` `Bootstrap` `Streamlit` `Razor Views`
+
+**Databases**
+`PostgreSQL` `MySQL` `MongoDB` `SQLite` `SQL Server` `Firebase Firestore`
+
+**AI / ML**
+`scikit-learn` `pandas` `NumPy` `Neural Networks` `Model Training` `Predictive Modeling`
+
+**Security & Blockchain**
+`SSL Certificates` `Digital Signatures` `Hashing` `Encryption` `Blockchain (Python)`
+
+**Languages**
+`Python` `Dart` `JavaScript` `TypeScript` `C++` `C#` `Java` `SQL`
+
+**Tools & DevOps**
+`Git` `GitHub` `Docker` `Postman` `VS Code` `Entity Framework` `Figma`
 
 ---
 
-## 🌐 Connect With Me
+## Featured Projects
 
-- 📧 **Email**: [samarnoorriaz@gmail.com](mailto:samarnoorriaz@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/samar-noor-riaz](https://linkedin.com/in/samar-noor-riaz/)
-- 🐙 **GitHub**: [github.com/Samar-Riaz](https://github.com/Samar-Riaz)
-- 📂 **Portfolio**: *Coming Soon*
+### SafarSathi – AI-Powered Tourism Planner *(FYP, In Progress)*
+> Flutter · AI/ML · Google Maps API · REST APIs
+
+AI-powered trip planner for Pakistani travelers. Takes trip dates, budget, and preferences and generates a full itinerary. Integrates AI to locate prayer spots, Jummah masjids, tyre shops, tuck shops, and emergency services along the route.
 
 ---
 
-> *Always eager to learn, build, and collaborate. Let's create something great together!*
+### YusiBooks Mobile App
+> Flutter · Dart · REST APIs · Stripe SDK
+
+Full cross-platform mobile conversion of YusiBooks.com — a business SaaS platform. Built 15+ modules: invoicing, quotes, proposals, payments, employee management, expense tracking, project management, time tracking, accounting (assets/liabilities/equity), analytics, and Stripe subscription handling.
+
+---
+
+### Secure Voting System
+> Python · Streamlit · Blockchain
+
+Tamper-proof digital voting platform using blockchain principles for vote integrity and auditability. Implemented end-to-end cryptographic verification.
+
+---
+
+### QueryCrunch – Multi-DB Benchmark Tool
+> Python · Streamlit · PostgreSQL · MySQL · MongoDB · SQL Server
+
+Interactive dashboard comparing CRUD, indexing, and JOIN performance across four databases with real-time query insights.
+
+---
+
+### Other Projects
+- E-Learning Mobile App — Flutter, Firebase, YouTube API
+- Smart City ML Model — Python, scikit-learn
+- Human Voice Prediction — Python, Neural Networks
+- Mess Management System — C#, ASP.NET MVC, SQL Server
+- Hospital Management System — Java
+- LibraCore Library System — C#, ASP.NET MVC, Entity Framework
+- Student Performance Prediction — Python, ML
+- Information Security Suite — SSL, Hashing, Encryption, Digital Signatures
+- HCI App Prototype — Figma (SRS, wireframes, working prototype)
+- Flask Auth API — Python, Flask, Role-Based Access Control
+- ML Prediction Suite — Stock Exchange, Car Price, Shortest Path
+
+---
+
+## Education
+
+**Bachelor of Computer Science** · CGPA: 3.3
+University of Engineering and Technology (UET) · 2023 – 2027
+
+**Intermediate in Computer Science**
+Punjab College of Colleges, Kamoke · 2021 – 2023
+
+---
+
+## Certifications
+
+- FastAPI for Backend Development – freeCodeCamp (2025)
+- Python for Web Development – Udemy (2024)
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-samar--noor--riaz-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/samar-noor-riaz)
+[![GitHub](https://img.shields.io/badge/GitHub-Samar--Riaz-181717?style=flat-square&logo=github)](https://github.com/Samar-Riaz)
+[![Email](https://img.shields.io/badge/Email-samarnoorriaz@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:samarnoorriaz@gmail.com)
