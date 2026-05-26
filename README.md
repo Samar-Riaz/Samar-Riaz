@@ -18,7 +18,7 @@
 
 Currently employed as a **Mobile Developer at YusiTechnologies**, actively shipping multiple Flutter applications in parallel for production. Final-year Computer Science student at UET (CGPA: 3.3) with 1+ year of freelance experience spanning mobile, web, backend, and AI/ML domains. Delivered production-grade applications across Flutter, MERN, Flask, .NET, and Python. Currently leading an AI-powered tourism FYP alongside full-time employment.
 
-> Comfortable working across the full stack — from UI to backend to model training — and proven at shipping real products for real clients.
+> Comfortable working across the full stack, from UI to backend to model training, and proven at shipping real products for real clients.
 
 ---
 
@@ -29,7 +29,7 @@ Currently employed as a **Mobile Developer at YusiTechnologies**, actively shipp
 | Mobile Developer | YusiTechnologies | Feb 2026 – Present |
 | Full-Stack Developer | HiSkyTech Software Company | May 2025 – Sep 2025 |
 | Backend Developer (Contract) | Freelance | Jan 2025 – May 2025 |
-| Freelance Developer | Outsourcing Teams | Jan 2024 – Present |
+| Freelance Developer | Outsourcing Teams | Jan 2025 – Present |
 
 ---
 
@@ -67,13 +67,6 @@ Currently employed as a **Mobile Developer at YusiTechnologies**, actively shipp
 > Flutter · AI/ML · Google Maps API · REST APIs
 
 AI-powered trip planner for Pakistani travelers. Takes trip dates, budget, and preferences and generates a full itinerary. Integrates AI to locate prayer spots, Jummah masjids, tyre shops, tuck shops, and emergency services along the route.
-
----
-
-### YusiBooks Mobile App
-> Flutter · Dart · REST APIs · Stripe SDK
-
-Full cross-platform mobile conversion of YusiBooks.com — a business SaaS platform. Built 15+ modules: invoicing, quotes, proposals, payments, employee management, expense tracking, project management, time tracking, accounting (assets/liabilities/equity), analytics, and Stripe subscription handling.
 
 ---
 
